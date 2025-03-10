@@ -1,0 +1,22 @@
+{
+  "drei": {
+    "pos": 3,
+    "fortschritt": "keiner",
+    "bemerkung": "None"
+  },
+  "eins": {
+    "pos": 1,
+    "fortschritt": "ein wenig",
+    "bemerkung": "None"
+  },
+  "vier": {
+    "pos": 4,
+    "fortschritt": "keiner",
+    "bemerkung": "None"
+  },
+  "zwei": {
+    "pos": 2,
+    "fortschritt": "sehr gut",
+    "bemerkung": "None"
+  }
+}
